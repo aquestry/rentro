@@ -1,2 +1,8 @@
 # rentro
-Rentro is a simple horror game im working on in my freetime.
+
+Very early Beta!
+Escape Room Horror game.
+Current Dev State: Testing Movement on just a simple Terrain.
+
+Downlaod:
+https://aquestry.itch.io/rentro-early-beta
