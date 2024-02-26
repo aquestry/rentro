@@ -1,4 +1,4 @@
-# rentro
+Rentro
 
 Very early Beta!
 Escape Room Horror game.
